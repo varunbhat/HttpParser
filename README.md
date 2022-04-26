@@ -1,2 +1,2 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![CIs](https://github.com/varunbhat/HttpParser/actions/workflows/main.yml/badge.svg)
 
